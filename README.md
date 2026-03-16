@@ -1,6 +1,5 @@
 # COP2002 — Programming Logic
-**Santa Fe College · Spring 2026**  
-**Instructor:** [Course Instructor]  
+**Santa Fe College · Spring 2026**   
 **Student:** Ozcan Celik
 
 ---
